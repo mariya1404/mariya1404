@@ -5,6 +5,6 @@
  real-world scenarios. Seeking opportunities to contribute effectively to innovative projects
    
 - I’m currently learning :
-         ->Front-end libraries and responsive design,Ai and Machine Learning
+         Front-end libraries and responsive design,Ai and Machine Learning
   
   Open to internships,collaborations,and new learning opportunities.
